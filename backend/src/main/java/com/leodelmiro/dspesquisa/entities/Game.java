@@ -26,7 +26,7 @@ public class Game implements Serializable {
     @OneToMany(mappedBy = "game")
     private List<Record> records = new ArrayList<>();
 
-    public Game(){
+    public Game() {
 
     }
 
@@ -77,7 +77,7 @@ public class Game implements Serializable {
         records.add(record);
     }
 
-    public void removeGame(Record record){
+    public void removeGame(Record record) {
         records.remove(record);
     }
 
