@@ -73,7 +73,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone hhttps://github.com/leodelmiro/dspesquisa
+git clone https://github.com/leodelmiro/dspesquisa
 
 # entrar na pasta do projeto front end web
 cd front-web
