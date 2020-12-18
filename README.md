@@ -12,7 +12,9 @@ https://sds1-leo.herokuapp.com/swagger-ui.html
 ![Endpoints](https://i.imgur.com/V2IBgnl.png)
 
 ## Layout mobile
-![Mobile 1](https://i.imgur.com/GZYrr0e.png) ![Mobile 2](https://i.imgur.com/YWJUEyF.png)
+![Mobile 1](https://i.imgur.com/GZYrr0e.png) 
+
+![Mobile 2](https://i.imgur.com/YWJUEyF.png)
 
 ## Layout web
 ![Home](https://i.imgur.com/zcs3ooS.png)
